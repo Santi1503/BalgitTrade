@@ -1,0 +1,2 @@
+# BalgitTrade
+Trading app
